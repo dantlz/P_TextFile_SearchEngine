@@ -1,0 +1,2 @@
+INDEX_FILE = data6/seed.txt
+OUTPUT_FILE = data6/index_student.txt

@@ -1,0 +1,5 @@
+For this file, we're linking to [THE TEST 2](data5/test2.txt) and [test 5](data5/test5.txt) files.
+By showing code to correctly calculate real PageRank I hope to achieve several things in this response:
+Clearly explain how PageRank is calculated.
+Go through every example in Chris’ paper, and add some more of my own, showing the correct PageRank for each diagram. By showing the code used to calculate each diagram I’ve opened myself up to peer review - mostly in an effort to make sure the examples are correct, but also because the code can help explain the PageRank calculations.
+Describe some principles and observations on website design based on these correctly calculated examples.

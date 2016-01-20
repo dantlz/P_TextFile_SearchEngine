@@ -1,0 +1,1 @@
+This file contains two LinKS to tests 3 and 4. The first [LINK is for test3](data5/test3.txt)withfile [SECOND LINK is for test4 file](data5/test4.txt). Notice that we are also using mixed cap words and words adjacent to closing parenthesis.

@@ -1,0 +1,5 @@
+This file doesn't contain any link.
+Use it to test basic functionality of the GUI such as AND, OR search,
+Opening the new window by clicking the search results.
+Closing new window.
+Terminating the program.

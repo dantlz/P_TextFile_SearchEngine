@@ -1,0 +1,3 @@
+To test the sorting, there are three links in this test file.
+This is a [link1](data4/test1.txt) to test1 file.
+This is a [link2](data4/test2.txt) to test2 file.

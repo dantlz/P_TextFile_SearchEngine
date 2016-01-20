@@ -1,0 +1,23 @@
+This is [link to test5 file](data5/test5.txt) in this folder. The anchor text contains spaces. This file should show up if you search for follwing terms:
+This
+is
+link
+to
+test5
+file
+in
+folder
+The
+anchor
+text
+contains
+spaces
+should
+show
+up
+if
+you
+search
+for
+following
+terms

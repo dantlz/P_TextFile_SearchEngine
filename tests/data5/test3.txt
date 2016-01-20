@@ -1,0 +1,3 @@
+The test 3 file has links to [test 1](data5/test1.txt), and test 4.
+Page Rank is a topic much discussed by Search Engine Optimisation (SEO) experts. At the heart of PageRank is a mathematical formula that seems scary to look at but is actually fairly simple to understand.
+Despite this many people seem to get it wrong! In particular [Chris Ridings](data5/test4.txt) has written a paper entitled “PageRank Explained: Everything you’ve always wanted to know about PageRank”, pointed to by many people, that contains a fundamental mistake early on in the explanation! Unfortunately this means some of the recommendations in the paper are not quite accurate. 

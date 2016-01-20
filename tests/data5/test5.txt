@@ -1,0 +1,2 @@
+Only links to [test3.txt file](data5/test3.txt). [test6.txt file](data5/test6.txt)
+PageRank is one of the methods Google uses to determine a page’s relevance or importance. It is only one part of the story when it comes to the Google listing, but the other aspects are discussed elsewhere (and are ever changing) and PageRank is interesting enough to deserve a paper of its own.
