@@ -4,6 +4,7 @@
 #include <exception>
 #include <map>
 
+//Returns whether the link has been explored or not
 bool unexplored(std::string link, std::vector<std::string>& explored){
 	for(unsigned int i=0;i<explored.size();i++){
 		if(link==explored[i])
@@ -12,6 +13,7 @@ bool unexplored(std::string link, std::vector<std::string>& explored){
 	return true;
 }
 
+//Extract strings of URL format from the text
 std::vector<std::string> getLinks(std::string filename, std::vector<std::string>& explored){
 	std::vector<std::string> result;
 	std::ifstream input_file(filename.c_str());
@@ -94,9 +96,7 @@ std::vector<std::string> getLinks(std::string filename, std::vector<std::string>
 	return result;
 }
 
-
-
-
+//Recursively explore one text file
 void crawl(std::string index_filename, std::string output_filename, std::vector<std::string>& explored){
 	std::vector<std::string> results;
 	try{
@@ -139,6 +139,7 @@ void crawl(std::string index_filename, std::string output_filename, std::vector<
 	//Make sure if we can't open the file there is a different return value than if the link simply doesn't contain any outgoing links.
 }
 
+//Start the crawler
 void crawl_starter(std::string index_filename, std::string output_filename, std::vector<std::string>& explored){
 	std::ifstream in_file(index_filename.c_str());
 	if(in_file.fail()){

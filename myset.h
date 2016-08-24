@@ -3,6 +3,8 @@
 #include <set>
 #include <string>
 
+//My own implementation of set that can form intersection and union with other sets
+
 template<class T>
 class myset : public std::set<T> {
 public:
