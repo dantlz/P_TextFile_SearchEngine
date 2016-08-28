@@ -1,6 +1,7 @@
 # P_TextFile_SearchEngine
 
 
+This is a search engine that parses text files and allows the user to search with key word(s) and phrases like AND/OR. The user inerface is mplemented with a Qt framework and notable features include a simplified version of Google’s PageRank algorithm to sort the search results and a crawler to recursively discover new "links"/files by parsing text.
 
 This is the readme file for my text file search engine.
 The files in this folder are as follows:
